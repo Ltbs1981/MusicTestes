@@ -2,8 +2,8 @@
 {
     public enum Genero
     {
-        Rock
-            RockClassico
+        Rock,
+            RockClassico,
             HeavyMetal
     }
 }
